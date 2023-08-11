@@ -48,9 +48,9 @@
 		<BGVisible Type="2" Value="0" />
 	</QuickBar1>
 	<CombatState>
-		<anchorXOffset Type="3" Value="-0.222222" />
-		<anchorAlignment Type="3" Value="8.000000" />
-		<anchorYOffset Type="3" Value="55.555556" />
+		<anchorXOffset Type="3" Value="0.000000" />
+		<anchorAlignment Type="3" Value="7.000000" />
+		<anchorYOffset Type="3" Value="84.000000" />
 		<scale Type="3" Value="1.000000" />
 		<enabled Type="2" Value="1" />
 		<alpha Type="3" Value="100.000000" />
@@ -583,8 +583,8 @@
 		<AnchorAlignment Type="3" Value="6.000000" />
 	</TutorialPopupWindow>
 	<VendorWindow>
-		<AnchorOffsetX Type="3" Value="169.649089" />
-		<AnchorOffsetY Type="3" Value="171.812853" />
+		<AnchorOffsetX Type="3" Value="55.204644" />
+		<AnchorOffsetY Type="3" Value="187.368408" />
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</VendorWindow>
 	<GCWindow>
@@ -869,8 +869,8 @@
 		<AnchorAlignment Type="3" Value="9.000000" />
 	</UpsellWindow>
 	<MTXStoreWindow>
-		<AnchorOffsetX Type="3" Value="346.666667" />
-		<AnchorOffsetY Type="3" Value="0.000000" />
+		<AnchorOffsetX Type="3" Value="553.333333" />
+		<AnchorOffsetY Type="3" Value="43.333333" />
 		<AnchorAlignment Type="3" Value="1.000000" />
 	</MTXStoreWindow>
 	<GroupFinderFilter>
